@@ -1,5 +1,5 @@
 # WSL Football Analysis
-*All data frm StatsBomb* 
+*All data from StatsBomb* 
 
 ## 1. Manchester City WFC - Passing Network Analysis
 
@@ -20,6 +20,7 @@ Event data was analysed using Python to extract passes, player positions, and pa
 
 ### Conclusion
 Overall, the passing network suggests a structured build-up from the back, with the goalkeeper and central midfield playing important roles in progressing the ball. Wide areas are consistently utilised, with strong connections on both flanks. The reduced number of passes in the attacking half may indicate a more direct approach in the final third, focusing on quicker attacking actions rather than sustained possession.
+
 ---
 
 ## StatsBomb
